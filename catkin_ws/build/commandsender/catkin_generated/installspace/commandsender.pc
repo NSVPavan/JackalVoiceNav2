@@ -1,0 +1,8 @@
+prefix=/home/pavan/catkin_ws/install
+
+Name: commandsender
+Description: Description of commandsender
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
